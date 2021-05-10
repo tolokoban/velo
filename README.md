@@ -1,11 +1,17 @@
 # velo
 
-## Etape 1 : Oberwald - Brig
+## Oberwald - Brig
 
-Camping Brig: https://www.eurocampings.fr/suisse/valais/brigue-glis/camping-geschina-107117/
+* Distance : 42 km 
+* Camping Brig: https://www.eurocampings.fr/suisse/valais/brigue-glis/camping-geschina-107117/
 
-## Étape 2 : Brig - Martigny
+## Brig - Martigny
 
+* Distance : 86 km
+
+## Martigny - Vevey 
+
+* Distance : 50 km
 
 
 
