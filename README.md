@@ -4,10 +4,12 @@
 
 Vélo jusqu'à Genève, puis train.
 
+* Camping Oberwald : https://www.eurocampings.fr/suisse/valais/oberwald/forest-lodge-camping-121500/
+
 ## Oberwald - Brig
 
 * Distance : 42 km 
-* Camping Brig: https://www.eurocampings.fr/suisse/valais/brigue-glis/camping-geschina-107117/
+* Camping Brig : https://www.eurocampings.fr/suisse/valais/brigue-glis/camping-geschina-107117/
 
 ## Brig - Martigny
 
