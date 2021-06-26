@@ -16,9 +16,10 @@ Vélo jusqu'à Genève, puis train.
 * Distance : 74 km
 * Camping de la Sarvaz : https://www.eurocampings.fr/suisse/valais/saillon/camping-de-la-sarvaz-110365/
 
-## Martigny - Vevey (Jeudi 29)
+## Saillon - Villeneuve (Jeudi 29)
 
-* Distance : 50 km
+* Distance : 48 km
+* Camping les horizons bleus : https://www.eurocampings.fr/suisse/vaud/villeneuve/les-horizons-bleus-c-c-c-v-107027/
 
 ## Vevey - Nyon (Vendredi 30)
 
